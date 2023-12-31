@@ -1,0 +1,136 @@
+.logo{
+    height: 50px;
+    width: 1490;
+    background-color:black;
+}
+
+header {
+    background-color:black; 
+    color: #fff; 
+    padding: 10px 0; 
+    text-align: right; 
+}
+
+
+img {
+    max-width: 200px; 
+    height: 80px;
+    margin-left: 5px;
+    margin-top: 4px;
+    
+}
+
+nav {
+    display: inline-block; 
+}
+
+nav a {
+    color: #fff; 
+    text-decoration: none; 
+    margin: 0 15px;
+}
+
+footer {
+    background-color:black;
+    color: #fff; 
+    padding: 20px 0;
+    text-align:left;
+    height: 200px;
+    
+}
+
+
+.contact-info, .legal-links, .social-media {
+    margin-bottom: 15px;
+}
+
+.social-media a {
+    color: #fff;
+    text-decoration: none; 
+    margin: 0 10px; 
+}
+
+.content{
+    background-image: url(https://img.freepik.com/premium-psd/top-view-workspace-with-supplies-smartphone-mockup_67155-12579.jpg);
+    height: 700px;
+    width: 1497px;
+    background-repeat: no-repeat;
+    background-position: center;
+  background-size: cover;
+    
+}
+
+#a
+{
+    margin-left: 500px;
+    height: 600px;
+    width: 400px;
+    background-color: transparent;
+    border-radius: 50px;
+    position: absolute;
+    top: 270px;
+   
+}
+
+#b
+{
+    height: 70px;
+    width: 385px;
+    background-color:transparent ;
+    border-radius: 40px 40px 40px 40px;
+    position: absolute;
+    top:30px;
+    left:7px;
+    right:7px;
+    
+}
+
+#c
+{
+    height: 400px;
+    width: 382px;
+    background-color:transparent ;
+    border-radius: 40px 40px 40px 40px;
+    position: absolute;
+    top:112px;
+    left:7px;
+    right:7px;
+    border:2px solid black;
+}
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    
+    padding: 20px;
+    
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-family: cursive;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color:black;
+    color: #fff; 
+    border-radius: 0px 0px 40px 40px;
+    border-color: transparent;
+    cursor: pointer;
+    height: 30px;
+    width: 100%;
+    font-family: cursive;
+}
+
+h1{
+    text-align: center;
+    color:#fff;
+    font-family: cursive;
+}

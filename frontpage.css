@@ -1,0 +1,84 @@
+.logo{
+    height: 50px;
+    width: 1490;
+    background-color:black;
+}
+
+header {
+    background-color:black; 
+    color: #fff; 
+    padding: 10px 0; 
+    text-align: right; 
+}
+
+
+img {
+    max-width: 200px; 
+    height: 80px;
+    margin-left: 5px;
+    margin-top: 4px;
+    
+}
+
+nav {
+    display: inline-block; 
+}
+
+nav a {
+    color: #fff; 
+    text-decoration: none; 
+    margin: 0 15px;
+}
+
+footer {
+    background-color:black;
+    color: #fff; 
+    padding: 20px 0;
+    text-align:left;
+    height: 200px;
+    
+}
+
+
+.contact-info, .legal-links, .social-media {
+    margin-bottom: 15px;
+}
+
+.social-media a {
+    color: #fff;
+    text-decoration: none; 
+    margin: 0 10px; 
+}
+
+.content{
+    background-image: url(https://img.freepik.com/premium-psd/top-view-workspace-with-supplies-smartphone-mockup_67155-12579.jpg);
+    height: 700px;
+    width: 1497px;
+    background-repeat: no-repeat;
+    background-position: center;
+  background-size: cover;
+    
+}
+.welcome
+{
+    
+    margin-left: 810px;
+    padding-top: 350px;
+    
+}
+.wel{
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:30px;
+    text-decoration: none;
+}
+
+.quicklink
+{
+    position: absolute;
+    
+    height: 200px;
+    width: 200px;
+    margin-left: 600px;
+    top: 820px;
+}

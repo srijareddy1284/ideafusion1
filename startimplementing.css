@@ -1,0 +1,62 @@
+.logo{
+    height: 50px;
+    width: 1490;
+    background-color:black;
+}
+
+header {
+    background-color:black; 
+    color: #fff; 
+    padding: 10px 0; 
+    text-align: right; 
+}
+
+
+img {
+    max-width: 200px; 
+    height: 80px;
+    margin-left: 5px;
+    margin-top: 4px;
+    
+}
+
+nav {
+    display: inline-block; 
+}
+
+nav a {
+    color: #fff; 
+    text-decoration: none; 
+    margin: 0 15px;
+}
+
+footer {
+    background-color:black;
+    color: #fff; 
+    padding: 20px 0;
+    text-align:left;
+    height: 200px;
+    
+}
+
+
+.contact-info, .legal-links, .social-media {
+    margin-bottom: 15px;
+}
+
+.social-media a {
+    color: #fff;
+    text-decoration: none; 
+    margin: 0 10px; 
+}
+
+.content{
+    background-color: rgba(70,70,70,255);
+    height: 1300px;
+    width: 1497px;
+    background-repeat: no-repeat;
+    background-position: center;
+  background-size: cover;
+  margin-top: -25px;
+    
+}
